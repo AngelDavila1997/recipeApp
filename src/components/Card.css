@@ -1,0 +1,40 @@
+.cardwidth{
+	font-family: 'Roboto';
+	transition: all 0.5s;
+}
+.cardwidth:hover{
+	transform: scale(1.03);
+}
+
+.recipetitle{
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+.recipeimg{
+	height: 312.797px;
+	width:  312.797px;
+	border-radius: 8px;
+}
+.ingtitle{
+	font-size: 20px;
+	letter-spacing: 1px;
+	padding: 10px 0px 0px 0px;
+	text-decoration: underline;
+}
+.inglist{
+	text-align: left;
+}
+.recipelink:hover, .recipelink:active{
+	background-color: #E64398;
+}
+.recipelink:link, .recipelink:visited{
+  background-color: #F172A1;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+

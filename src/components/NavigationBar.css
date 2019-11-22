@@ -1,0 +1,17 @@
+.bar-height{
+	height: 80px;
+}
+.navtext{
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+}
+.navnav{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12.8px;
+	color: rgba(0,0,0,0.5);
+	padding: 8px;
+}
+.nav-item{
+	padding-right: 32px;
+}
